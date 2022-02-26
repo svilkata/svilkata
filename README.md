@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svilkata
 - 👀 I’m interested in Java, JS and Spring
-- 🌱 I’m currently learning JAVA and MySQL
+- 🌱 I’v mastered JAVA and JS and SQL. Currently I am learning Spring (Spring Data and Spring MVC).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
